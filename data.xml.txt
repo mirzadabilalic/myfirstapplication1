@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<accountID bankName="UniCredit Bank" brojBanke="551170022328904">345</accountID>
+<swiftNumber value="234"/>
